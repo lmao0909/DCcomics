@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.foto {
+    border-radius: 10px;
+    width: 300px;
+    height: 320px;
+}
+#inicio {
+    background: linear-gradient(#2c607a 0%, #f11d1d 100%);
+}
+
+#name {
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+#name1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+p {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+ #sobre {
+    font-family: 'Times New Roman', Times, serif;
+
+ }
+
+ #quadrinhos{
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ .mynavbar {
+    position:sticky;
+    top: 0;
+    z-index: 9;
+ }
+
+ .links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+ }
+ .links:hover {
+    font-size: 25px;
+ }
+
+ #contatos {
+    background: #979797;
+ }
+
+ #contatos iframe {
+    width: 100%;
+ }
+
+ .contatos_1 h3 {
+    display: inline;
+    padding-bottom: 50px;
+  }
